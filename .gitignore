@@ -362,5 +362,3 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Tactsoft.App/wwwroot/images/profiles
-/Tactsoft.App/appsettings.json
-/Tactsoft.App/appsettings.Development.json
